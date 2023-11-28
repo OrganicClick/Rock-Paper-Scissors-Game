@@ -6,4 +6,6 @@ var enemyArray = [
     "S",
 ];
 
-var randomItem = enemyArray[Math.floor(Math.random()*enemyArray.length)]
+var randomItem = 
+enemyArray[Math.floor(Math.random()*enemyArray.length)]
+
