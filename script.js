@@ -25,3 +25,5 @@ function enemyChoice() {
     var decision = enemyArray[randomItem]
     return decision;
 }
+
+playGame();
